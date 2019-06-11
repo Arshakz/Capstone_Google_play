@@ -32,15 +32,17 @@ Dataset was downloaded from publicly available source https://www.kaggle.com/lav
 
 There are 3 files in these repository
 
--Capstone_project.html
--Capstone_project.ipynb
+  -Capstone_project.html
+  -Capstone_project.ipynb
+
 
 
 These 2 file are the smae just one is html format and another Jupyter. They include analyzes of dataset
 
 
 
--googleplaystore.csv
+  -googleplaystore.csv
+
 
 This is dataset which was analyzed
 
